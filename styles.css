@@ -1,0 +1,35 @@
+h1 {
+    color::rgb(17, 17, 16);
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    font-weight:700;
+    background-color: rgb(201,218,188);
+    text-align: center;
+    }
+    
+    h2 {
+        color:rgb(17, 17, 16);
+        font-weight: 700;
+        padding: 30px, 30px, 20px;
+        font-family: 'Open Sans';
+        
+        
+    }
+    
+    body {
+    background-color:rgb(154, 207, 241);
+    font-family: 'Open Sans';
+    
+    
+    }
+    
+    div.picture{
+    text-align: center;
+    }
+    
+    .btn_style {
+        font-family: 'Open Sans';
+        text-align: center;
+        text-decoration: none;
+        font-size: 1.25em;
+      }
